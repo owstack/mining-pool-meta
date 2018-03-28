@@ -1,5 +1,5 @@
 {
-  "name": "mining-pool-meta",
+  "name": "@owstack/mining-pool-meta",
   "version": "1.0.0",
   "description": "information required to detect mining pool from coinbase script",
   "main": "index.js",
