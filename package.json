@@ -1,0 +1,24 @@
+{
+  "name": "mining-pool-meta",
+  "version": "1.0.0",
+  "description": "information required to detect mining pool from coinbase script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owstack/mining-pool-meta.git"
+  },
+  "keywords": [
+    "mining",
+    "pool",
+    "strings"
+  ],
+  "author": "Ian Patton <ian@owstack.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owstack/mining-pool-meta/issues"
+  },
+  "homepage": "https://github.com/owstack/mining-pool-meta#readme"
+}
